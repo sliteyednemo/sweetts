@@ -1,0 +1,7 @@
+{
+  "description": "An application for the visually impaired that describes the scene using the camera and Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "name": "Blind app"
+}
